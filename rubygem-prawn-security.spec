@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.8.4
-Release:    %mkrel 1
+Release:    2
 Summary:    Popular Password Protection & Permissions for Prawn PDFs
 Group:      Development/Ruby
 License:    Ruby or GPLv2
