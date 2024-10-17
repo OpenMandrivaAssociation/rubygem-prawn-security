@@ -6,7 +6,7 @@ Release:    2
 Summary:    Popular Password Protection & Permissions for Prawn PDFs
 Group:      Development/Ruby
 License:    Ruby or GPLv2
-URL:        http://github.com/madriska/prawn-security/
+URL:        https://github.com/madriska/prawn-security/
 Source0:    http://rubygems.org/gems/%{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}
 Requires:   rubygems
